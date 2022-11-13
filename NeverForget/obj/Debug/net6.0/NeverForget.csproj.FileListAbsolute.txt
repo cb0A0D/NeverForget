@@ -1,0 +1,15 @@
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\bin\Debug\net6.0\NeverForget.exe
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\bin\Debug\net6.0\NeverForget.deps.json
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\bin\Debug\net6.0\NeverForget.runtimeconfig.json
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\bin\Debug\net6.0\NeverForget.dll
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\bin\Debug\net6.0\NeverForget.pdb
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.csproj.AssemblyReference.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.AssemblyInfoInputs.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.AssemblyInfo.cs
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.csproj.CoreCompileInputs.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.dll
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\refint\NeverForget.dll
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.pdb
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\NeverForget.genruntimeconfig.cache
+C:\Users\msilv\OneDrive\Desktop\CodeKentucky\NeverForget\NeverForget\obj\Debug\net6.0\ref\NeverForget.dll
