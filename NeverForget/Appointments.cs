@@ -57,6 +57,8 @@ namespace Appointments
             Console.WriteLine("Enter the entry text:");
             string text = Console.ReadLine();
             database.AddEntry(dateTime, text);
+            Console.WriteLine("Entry Successfully Added");
+            Console.WriteLine();
         }
 
         /// <summary>

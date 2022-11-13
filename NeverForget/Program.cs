@@ -44,6 +44,7 @@ namespace Appointments
                         Console.WriteLine("Error. Have you had your coffee yet? Press any key to choose another action.");
                         break;
                 }
+                Console.Write("Press Any Key to Continue");
                 Console.ReadKey();
             }
         }
